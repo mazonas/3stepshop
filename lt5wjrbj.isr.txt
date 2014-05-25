@@ -1,0 +1,75 @@
+﻿Beginning
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   CONTRIBUTING.md
+#	modified:   README.md
+#	new file:   app/commands/.gitkeep
+#	new file:   app/config/app.php
+#	new file:   app/config/auth.php
+#	new file:   app/config/cache.php
+#	new file:   app/config/compile.php
+#	new file:   app/config/database.php
+#	new file:   app/config/local/app.php
+#	new file:   app/config/mail.php
+#	new file:   app/config/packages/.gitkeep
+#	new file:   app/config/queue.php
+#	new file:   app/config/remote.php
+#	new file:   app/config/session.php
+#	new file:   app/config/testing/cache.php
+#	new file:   app/config/testing/session.php
+#	new file:   app/config/view.php
+#	new file:   app/config/workbench.php
+#	new file:   app/controllers/.gitkeep
+#	new file:   app/controllers/BaseController.php
+#	new file:   app/controllers/HomeController.php
+#	new file:   app/database/migrations/.gitkeep
+#	new file:   app/database/migrations/2014_05_25_070241_create_customer_table.php
+#	new file:   app/database/production.sqlite
+#	new file:   app/database/seeds/.gitkeep
+#	new file:   app/database/seeds/DatabaseSeeder.php
+#	new file:   app/filters.php
+#	new file:   app/lang/en/pagination.php
+#	new file:   app/lang/en/reminders.php
+#	new file:   app/lang/en/validation.php
+#	new file:   app/models/Customers.php
+#	new file:   app/models/User.php
+#	new file:   app/routes.php
+#	new file:   app/start/artisan.php
+#	new file:   app/start/global.php
+#	new file:   app/start/local.php
+#	new file:   app/storage/.gitignore
+#	new file:   app/storage/cache/.gitignore
+#	new file:   app/storage/logs/.gitignore
+#	new file:   app/storage/meta/.gitignore
+#	new file:   app/storage/sessions/.gitignore
+#	new file:   app/storage/views/.gitignore
+#	new file:   app/tests/ExampleTest.php
+#	new file:   app/tests/TestCase.php
+#	new file:   app/views/emails/auth/reminder.blade.php
+#	new file:   app/views/hello.php
+#	new file:   app/views/layout.blade.php
+#	new file:   app/views/users.blade.php
+#	new file:   artisan
+#	new file:   bootstrap/autoload.php
+#	new file:   bootstrap/paths.php
+#	new file:   bootstrap/start.php
+#	new file:   composer.json
+#	new file:   phpunit.xml
+#	new file:   public/.htaccess
+#	new file:   public/favicon.ico
+#	new file:   public/index.php
+#	new file:   public/packages/.gitkeep
+#	new file:   public/robots.txt
+#	new file:   server.php
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	dggj3r00.ofd.txt
+
